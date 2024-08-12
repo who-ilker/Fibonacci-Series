@@ -22,6 +22,10 @@ bin/
 /nbdist/
 /.nb-gradle/
 
+### I Added this one ###
+.idea/workspace.xml
+
+
 ### VS Code ###
 .vscode/
 
